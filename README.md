@@ -1,2 +1,25 @@
 # koodiaapinen-mooc-pedagoginen
-Pedagoginen suunnittelutehtävä Koodiaapinen-Python-MOOCia varten. Ei kuitenkaan käytetä Pythonia vaan Arduino IDEä
+
+Suunnittelutehtävässä tulee käsitellä ainakin allaolevia kysymyksiä:
+
+### Aihepiirin valinta ja rajaus ###
+
+* Missä oppiaineessa ja mihin aihepiiriin haluat soveltaa ohjelmointia ja miksi?
+ * Esim: Kuvaamataito
+* Minkälaisia ilmiöitä valitsemaasi aihepiiriin liittyy?
+ * Esim: Taidesuuntaukset
+ * Minkälaisia yksittäisiä oppimistavoitteita näihin ilmiöihin tai niiden havainnointiin liittyy?
+ * Esim: Moderni taide, Piet Mondrianin teokset
+### Valittuun aihepiiriin liittyvien oppimistavoitteiden määrittely ja arviointi ###
+ * Millaisia oppimistavoitteita asetat oppikokonaisuudelle toisaalta ohjelmointiin ja toisaalta kohdeoppiaineeseen liittyen?
+  * Esim: Osaa piirtää jonkinlaisen taideteoksen, edistyneemmät opiskelijat voisivat kirjoittaa ohjelman, joka piirtää satunnaisen kuvion jokaisella suorituskerralla.
+ * Miten opettaja tai joku muu arvioi opiskelijan osaamista? Arvioidaanko sekä ohjelmointiosaamista että kohdeoppiaineen osaamista? Kokonaisuutena vai toisistaan erillään?
+ * Miten oppilas arvioi omaa osaamistaan? Tarvitseeko hänen arvioida omaa osaamistaan?
+### Työskentelyvälineet ja opetusmenetelmät ###
+* Mitä välineitä oppikokonaisuudessa käytetään?
+ * Esim: Python-ohjelmointikieli ja PyCharm-ohjelmointiympäristö
+* Minkälainen johdantomateriaali tai ohjeistus tehtäviin annetaan?
+* Millä perusteilla oppilaat motivoituvat tästä aiheesta?
+* Miten kurssilla rohkaistaan yhteistyötä?
+* Miten oppikokonaisuuden aikana voidaan auttaa oppilaita tuomaan mahdollinen aiempi ohjelmointiosaamisensa (kenties toisista ympäristöistä ja työkaluista) oppikokonaisuuden kontekstiin?
+* Miten oppikokonaisuuden aikana tai sen jälkeen voitaisiin tukea opitun asian yhdistämistä muihin tilanteisiin, joissa oppilaat kohtaavat ohjelmointia tai algoritmista ajattelua?
