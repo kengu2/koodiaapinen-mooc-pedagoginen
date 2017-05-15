@@ -1,4 +1,21 @@
-# koodiaapinen-mooc-pedagoginen
+# Koodiaapinen-MOOC pedagoginen suunnittelutehtävä
+
+Tämä dokumentti on yksi ratkaisu pedagogiseen suunnittelutehtävään Koodiaapinen-MOOC kurssille.
+
+http://koodiaapinen.fi/mooc/
+
+
+***
+
+### Johdanto ###
+
+Kahden tunnin opetuskokonaisuus hyödyntäen Arduino-kehitysympäristöä sekä ohjelmointiin että mikrokontrollereina. Edistyneemmät oppilaat pääsevät esimerkkien avulla pidemmälle robotin ohjaukseen ja kaikki kykenevät vilkuttamaan LED-valoa haluamallaan tavalla.
+
+
+### Esitiedot ###
+
+Vaatimuksena opetuksen sujuvuudelle esitietona on jonkinlainen käsitys ohjelmoinnista ja ohjelmointiin liittyvistä käsitteistä ja toimintamalleista. 
+
 
 Suunnittelutehtävässä tulee käsitellä ainakin allaolevia kysymyksiä:
 
