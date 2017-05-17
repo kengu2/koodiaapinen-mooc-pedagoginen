@@ -30,6 +30,7 @@ Kahden tunnin opetuskokonaisuus hyödyntäen Arduino-kehitysympäristöä. Edist
 
 Tällä ohjelmoinnin aloituskerralla perehdytään myös hieman mikrokontrollerin toimintaan ja elektroniikaan. Tavoitteena luoda alustavaa ymmärrystä sille miksi sähkölaitteen eli LEDin saa ohjelmallisesti kytkettyä päälle ja pois.
 
+Tuntien etenemiseen vaikuttaa huomattavasti ryhmän ominaisuudet ja kyvyt. Tämä suunnitelma on tehty koodauskerhoa ajatellen, mutta paikoitellen kerrataan hyvin yksinkertaisia asioita ja toisinaan asiat voivat olla hyvin edistyneitä.
 
 ## Esitiedot ##
 
